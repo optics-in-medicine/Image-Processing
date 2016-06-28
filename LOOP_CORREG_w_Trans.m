@@ -1,3 +1,9 @@
+%% LOOP_CORREG_w_Trans.m is the same as LOOP_CORREGISTRATION.m but allows the user to test 
+%% various transformations when aligning the fluorescent images (first an x translation and 
+%% then a y translation) until the user has chosen an alignment they are satisfied with. 
+
+
+
 % MAIN_LOGISTIC_ANALYSIS 
 % 
 % Load in multiparametric data and H&E sections,
