@@ -1,3 +1,8 @@
+%% LOOP_CORREG_chicken.m is the same as LOOP_CORREGISTRATION.m but it only uses two images to 
+%% coregister and not four. I used it when coregistering the chicken images.
+
+
+
 % MAIN_LOGISTIC_ANALYSIS 
 % 
 % Load in multiparametric data and H&E sections,
